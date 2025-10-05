@@ -14,4 +14,11 @@ newfile-untracked
 
  after commit->unchnaged
 
- //add and commit
+ //add 
+
+ git add file name or git add . for adding multiple files
+
+ //commit
+ git commit -m "some message to be written"
+
+ 
