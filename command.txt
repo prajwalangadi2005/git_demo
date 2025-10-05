@@ -1,0 +1,17 @@
+git clone <--htttps link-->
+clone-->remote i.e one present in th egithub to local copy i.e in laptop
+
+cd git_demo
+
+ls-to see files
+ls-a files+ hidden files
+
+git status->to see what is the status of the changes that we made as listed below   
+
+change -modified
+newfile-untracked
+ file added but does not commit ->stagged
+
+ after commit->unchnaged
+
+ //add and commit
